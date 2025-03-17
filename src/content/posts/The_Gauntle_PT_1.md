@@ -2,7 +2,7 @@
 title: The Gauntle PT 1
 published: 2023-10-01
 description: "How to use this blog template."
-tags: []
+tags: [Demo]
 category: BOOT2ROOT
 draft: false
 ---
