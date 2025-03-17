@@ -3,6 +3,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://chrissfurenes.github.io',
-    base: 'DDC-CFT-2025-WriteUp',
+    site: 'https://ChrissFurenes.github.io',
+    base: 'DDC-CTF-2025-WriteUp',
 });
