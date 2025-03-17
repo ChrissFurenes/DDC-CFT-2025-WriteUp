@@ -22,7 +22,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://chrissfurenes.github.io',
-  base: 'CTF_Writeups',
+  base: 'DDC-CTF-2025-WriteUp',
   trailingSlash: "always",
   integrations: [
     tailwind(
