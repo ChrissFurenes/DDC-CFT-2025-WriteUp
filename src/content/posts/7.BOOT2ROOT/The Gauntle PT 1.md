@@ -1,6 +1,8 @@
 ---
 title: The Gauntle PT 1
+published: 2023-10-01
 description: "How to use this blog template."
+tags: []
 category: BOOT2ROOT
 draft: false
 ---
@@ -10,10 +12,3 @@ This article is currently in a draft state and is not published. Therefore, it w
 
 When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter:
 
-```markdown
----
-title: The Gauntle PT 1
-description: "How to use this blog template."
-category: BOOT2ROOT
-draft: false
----
