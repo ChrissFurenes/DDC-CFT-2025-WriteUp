@@ -1,8 +1,8 @@
 ---
-title: The Gauntlet pt 1
+title: Vigenère's dictionary
 published: 2025-03-17
-tags: ["137p"]
-category: "BOOT2ROOT"
+tags: ["100p"]
+category: "Cryptography"
 draft: true
 ---
 

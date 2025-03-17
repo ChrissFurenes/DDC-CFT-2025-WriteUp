@@ -1,8 +1,8 @@
 ---
-title: The Gauntlet pt 1
+title: PWN me good uwu
 published: 2025-03-17
-tags: ["137p"]
-category: "BOOT2ROOT"
+tags: ["100p"]
+category: "Binary"
 draft: true
 ---
 
